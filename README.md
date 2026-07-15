@@ -1,9 +1,5 @@
 <h1 align="center">Hai, saya Azyumardi Azra Mirfah 👋</h1>
 
-<p align="center">
-Mahasiswa Teknik Informatika, Universitas Kuningan — fokus membangun aplikasi desktop dengan Python & Qt C++.
-</p>
-
 ---
 
 ### 🎓 Tentang Saya
