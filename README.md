@@ -9,10 +9,10 @@ I'm eager to collaborate on desktop application and UI/UX design projects.
 I'm currently learning UI/UX Design, HTML, and CSS to broaden my skills beyond desktop development.
 
 🎯 Currently Working On
-Most of my recent projects are university coursework — building desktop apps that solve real problems while I sharpen my OOP and data structure fundamentals.
+Most of my recent projects are university coursework building desktop apps that solve real problems while I sharpen my OOP and data structure fundamentals.
 
 💬 Let's Chat About
-Still on my learning journey, so I'd love to hear from anyone with tips on Python, Java, or Qt — or just chat about coding in general.
+Still on my learning journey, so I'd love to hear from anyone with tips on Python, Java, or Qt or just chat about coding in general.
 
 🏫 Organization
 Member of HIMA-TI (Himpunan Mahasiswa Teknik Informatika), Universitas Kuningan.
