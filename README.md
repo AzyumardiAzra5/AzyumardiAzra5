@@ -43,3 +43,4 @@ Member of HIMA-TI (Himpunan Mahasiswa Teknik Informatika), Universitas Kuningan.
 | [E-Voting for Student Council Election](https://github.com/AzyumardiAzra5/Sistem_E-Voting_QT-CPP) | Digital voting application for student council (OSIS) chairperson elections | C++, Qt 6 |
 | [KostManager](https://github.com/AzyumardiAzra5/KostManager_Java) | Boarding house management app (tenants, transactions, complaints) | Java, Swing |
 | [Employee Management System](https://github.com/AzyumardiAzra5/SistemManajemenKaryawan_Java) | Two-role (admin & employee) employee data management app | Java, Swing |
+| [VESPER Studio](https://github.com/AzyumardiAzra5/vesper-studio) | Photography service website — service packages, portfolio gallery with category filter, testimonial system | React, Vite, Tailwind CSS |
